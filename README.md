@@ -27,9 +27,9 @@
 ---
 
 ### 📊 GitHub Stats  
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=kuru2141&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuru2141&theme=radical" width="48%" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kuru2141&show_icons=true&theme=radical" width="48%" height="195px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuru2141&theme=radical" width="48%" height="195px"/>
 </div>
 
 ---
