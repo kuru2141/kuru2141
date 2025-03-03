@@ -1,4 +1,4 @@
-## 👋 Hi, I'm [진영호]!
+## 👋 Hi, I'm [Jin YeongHo]!
 
 🌱 **LG U+ Ureka 프론트엔드 개발자 과정** 수강 중  
 🔭 **사용 기술**: Python, Android Studio  
