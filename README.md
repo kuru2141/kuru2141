@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm Jin YeongHo!</h1>
+<h1>Jin YeongHo</h1>
 
 🌱 **LG U+ Ureka 2기 프론트엔드 개발자** 수강 중  
 📚 **SQLD, 정보처리기사, 빅데이터분석기사, 사회조사분석사 2급** 자격 보유  
