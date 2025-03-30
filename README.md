@@ -26,24 +26,28 @@
 ---
 
 ### 🎯 Coding Challenge  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kuru2141)](https://solved.ac/kuru2141)
+<p>
+  <a href="https://solved.ac/kuru2141">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kuru2141"/>
+  </a>
+</p>
 
 ---
 
 ### 📊 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kuru2141&show_icons=true&theme=radical" width="48%" height="195px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuru2141&theme=radical" width="48%" height="195px"/>
-</div>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=kuru2141&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kuru2141&theme=tokyonight" width="48%"/>
+</p>
 
 ---
 
 ### 📫 Contact  
 <p>
   <a href="mailto:jinyh2141@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/jinyh2141">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
