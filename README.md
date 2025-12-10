@@ -1,52 +1,49 @@
-<h1>Jin YeongHo</h1>
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=40&duration=2200&pause=900&color=000000&vCenter=true&width=600&lines=Jin+YeongHo" />
+</p>
 
-🌱 **LG U+ Ureca 2기 프론트엔드 개발자 과정** 수강 중  
-📚 **SQLD, 정보처리기사, 빅데이터분석기사, 사회조사분석사 2급** 보유  
+<small>
 
 ---
 
-### 🛠 Tech Stack  
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+## 📂 Experience
+- **NH농협은행 — IT·디지털** (2025.12 입행 예정)
+- **이든영수학원 — 수학 총괄 보조강사** (2021.07 ~ 2023.03 \/ 2023.08 ~ 2024.06)
 
 ---
 
-### 🌍 Language Skills  
-<p>
-  <img src="https://img.shields.io/badge/TOEIC-750-blue?style=for-the-badge&logo=google-translate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JLPT_N2-FFA500?style=for-the-badge&logo=notion&logoColor=white"/>
-</p>
+## 🎓 Education
+- **LG유플러스 유레카 SW교육과정 2기 — 프론트엔드 개발자(대면) 훈련생** (2025.01 ~ 2025.08)
+- **국외파견 교환학생(일본) — 미래에셋박현주재단 해외교환 장학생(제28기)** (2023.03 ~ 2023.08)
+- **인천대학교 — 수학과 / 컴퓨터공학부 (GPA 3.95 / 4.5)** (2018.03 ~ 2024.08)
 
 ---
 
-### 🎯 Coding Challenge  
-<p>
-  <a href="https://solved.ac/kuru2141">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kuru2141"/>
-  </a>
-</p>
+## 📜 Certificates & Awards  
+
+### Certificates
+- 빅데이터분석기사  
+- 사회조사분석사 2급  
+- SQLD  
+- 정보처리기사  
+- ITQ OA Master  
+- 워드프로세서 단일등급  
+- 컴퓨터활용능력 2급  
+
+### Language
+- TOEIC 750  
+- OPIc IM1  
+- JLPT N2  
+
+### Awards
+- 학장상 – 인천대학교 자연과학대학 (학업성적 우수)
+- 장려상 – 인천대학교 컴퓨터공학부 (졸업작품 발표회 우수 작품)
 
 ---
 
-### 📊 GitHub Stats  
+## 📊 Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=kuru2141&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kuru2141"/>
 </p>
 
----
-
-### 📫 Contact  
-<p>
-  <a href="mailto:jinyh2141@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/jinyh2141">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+</small>
